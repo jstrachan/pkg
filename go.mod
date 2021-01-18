@@ -47,11 +47,9 @@ require (
 	go.uber.org/atomic v1.7.0
 	go.uber.org/automaxprocs v1.3.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	golang.org/x/tools v0.0.0-20201211185031-d93e913c1a58
 	gomodules.xyz/jsonpatch/v2 v2.1.0
 	google.golang.org/api v0.36.0
@@ -60,14 +58,14 @@ require (
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.9.0
-	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22
+	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
 	honnef.co/go/tools v0.0.1-2020.1.5 // indirect
-	k8s.io/api v0.19.7
-	k8s.io/apiextensions-apiserver v0.19.7
-	k8s.io/apimachinery v0.19.7
-	k8s.io/client-go v0.19.7
-	k8s.io/code-generator v0.19.7
-	k8s.io/gengo v0.0.0-20200428234225-8167cfdcfc14
+	k8s.io/api v0.20.2
+	k8s.io/apiextensions-apiserver v0.20.2
+	k8s.io/apimachinery v0.20.2
+	k8s.io/client-go v0.20.2
+	k8s.io/code-generator v0.20.2
+	k8s.io/gengo v0.0.0-20201113003025-83324d819ded
 	k8s.io/klog v1.0.0
 	knative.dev/hack v0.0.0-20201214230143-4ed1ecb8db24
 	sigs.k8s.io/yaml v1.2.0
